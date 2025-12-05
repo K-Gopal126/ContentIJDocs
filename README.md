@@ -1,4 +1,4 @@
-# ContentIJ API Documentation
+# ContentIJ Documentation
 
 ## Overview
 
