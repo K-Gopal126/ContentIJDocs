@@ -5,7 +5,7 @@
 ContentIJ is an enterprise-grade content intelligence platform that evaluates written content across 10 critical quality dimensions. The system provides actionable insights to optimize content for search engines, reader engagement, and authenticity while detecting AI-generated patterns that may impact search rankings.
 
 **Version:** 2.0  
-**Last Updated:** November 2024  
+**Last Updated:** November 2025  
 **Status:** Production Ready
 
 ---
